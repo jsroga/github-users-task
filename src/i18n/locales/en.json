@@ -1,0 +1,26 @@
+{
+  "pages": {
+    "home": {
+      "title": "GitHub User Search"
+    }
+  },
+  "features": {
+    "userSearch": {
+      "username": "Username",
+      "validation": {
+        "required": "Please enter a username"
+      }
+    }
+  },
+  "common": {
+    "error": {
+      "title": "An error occurred",
+      "unexpected": "An unexpected error occurred",
+      "retry": "Try again",
+      "refresh": "Refresh page",
+      "fetchUsers": "Failed to fetch users"
+    },
+    "loading": "Loading...",
+    "noResults": "No results"
+  }
+} 
